@@ -1,0 +1,20 @@
+app:
+  name: gin-base
+  port: :8080
+  mode: debug
+
+mysql:
+  username: root
+  password: root
+  host: localhost
+  port: 3306
+  dbName: gin-base
+  charset: utf8
+  maxIdleConns: 10
+  maxOpenConns: 100
+client:
+  configPath: "/Users/parker/Desktop/GoWorkspace/gin-base/config/fabric/config-base-local.yaml"
+  organization: org2
+  username: Admin
+  channelID: mychannel
+  chainCodeID: mycc

@@ -1,0 +1,20 @@
+app:
+  name:
+  port: :8080
+  mode: debug
+
+mysql:
+  username:
+  password:
+  host:
+  port:
+  dbName:
+  charset:
+  maxIdleConns:
+  maxOpenConns:
+client:
+  configPath:
+  organization:
+  username:
+  channelID:
+  chainCodeID:

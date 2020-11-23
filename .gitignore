@@ -1,0 +1,4 @@
+.idea/
+go.sum
+./gin-base
+.DS_Store
